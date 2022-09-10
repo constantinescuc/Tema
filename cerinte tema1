@@ -1,0 +1,34 @@
+a. Carmen rezolvă exerciţiul urmând paşi de mai jos
+1. Scrieti un program care afiseaza “Imi place Java”
+
+2. Scrieti un program care afiseaza de 6 ori propozitia “Cursul acesta este foarte fain!”
+3. Ana are 24 de ani. Fratele ei, David, e cu 6 ani mai mic. Scrieti un program care afiseaza varsta lui David.
+4. Scrieti un program in care cititi o propozitie de la tastatura
+5. Scrieti un program in care definiti 3 variabile in metoda “myVariables”, un int, un String si un boolean, apoi apelati metoda din metoda “main”
+6. Scrieti un program in care creati o metoda unde cititi 2 numere de la tastatura, le stocati in variabile, si dupa ce le-ati citit, afisati-le pe ecran.
+7. Scrieti un program incare cititi de la tastatura un numar, si calculati:
+        - rezultatul sumei cu 5
+        - rezultatul scaderii cu 12.3
+        - rezultatul inmultirii cu -3.2
+        - rezultatul impartirii cu 4
+        - rezultatul modulului cu 6
+8. Stergeti un singur comment din programul acesta in asa fel incat rezultatul afisat sa fie 12 si 2:
+public class Solution {
+                        public static void main(String[] args) {
+                                    int x = 2;
+                                    int y = 12;
+
+                                    // y = x * y;
+
+                                    // y = x + y;
+
+                                    x = y - x;
+                                    y = y - x;
+
+                                    System.out.println(x);
+                                    System.out.println(y);
+                        }
+}
+
+b. Completează formularul de feedback.
+c. Încărcă link-ul de Replit cu soluțiile de la punctul a, folosind Text reply
